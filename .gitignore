@@ -1,0 +1,5 @@
+api_keys.txt
+*.pyc
+/.idea
+__pycache__
+*.db
